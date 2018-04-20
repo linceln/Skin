@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SkinTextViewHelper">
+        <attr name="android:textColor" />
+    </declare-styleable>
+
+    <declare-styleable name="SkinBackgroundHelper">
+        <attr name="android:background" />
+    </declare-styleable>
+
+    <declare-styleable name="SkinImageHelper">
+        <attr name="android:src" />
+    </declare-styleable>
+</resources>
